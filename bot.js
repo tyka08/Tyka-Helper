@@ -211,4 +211,3 @@
     setTimeout(container.discord.connect, 7000);
   });
 })();
-client.login(process.env.BOT_TOKEN);
